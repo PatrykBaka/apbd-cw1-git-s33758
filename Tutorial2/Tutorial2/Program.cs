@@ -14,3 +14,5 @@ else
 {
     Console.WriteLine("Liczba nieparzysta!");
 }
+
+Dog dog = new Dog();
