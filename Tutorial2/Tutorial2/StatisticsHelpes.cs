@@ -8,4 +8,9 @@ public class StatisticsHelpes
         Console.WriteLine("Hello, World!");
     }
 
+    public static double CalculateAverage(int[] values)
+    {
+        return values.Average();
+    }
+
 }
